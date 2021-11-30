@@ -1,0 +1,179 @@
+body {
+
+    font-family: "Roboto", sans-serif;
+}
+
+.rech{
+
+    float: left;
+    display: block;
+    font-weight: bold;
+    position: relative;
+    left: 15px;
+    text-align: left;
+    width: 11000px;
+    padding: 1px;
+    margin: auto;
+    height: 1px;
+    z-index: 1;
+}
+
+
+
+.desc{
+
+    float: left;
+    display: block;
+    font-weight: bold;
+    position:absolute; bottom:750px;
+    left: 400px;
+    text-align: left;
+    width: 11000px;
+    padding: 15px;
+    margin: 0px;
+    height: 1px;
+    z-index: 1;
+}
+
+
+.inf{
+
+    display: block;
+    background-color: aquamarine;
+    font-weight: bold;
+    position: relative;
+    left: 526px;
+    text-align: left;
+    width: 250px;
+    padding: 15px;
+    margin: auto;
+    height: 150px;
+    z-index: 1;
+}
+
+.coo{
+
+    display: block;
+    background-color: aquamarine;
+    font-weight: bold;
+    position: relative;
+    left: 526px;
+    text-align: left;
+    width: 250px;
+    padding: 15px;
+    margin: auto;
+    height: 400px;
+    z-index: 1;
+}
+
+.comp{
+
+    display: block;
+    background-color: aquamarine;
+    font-weight: bold;
+    position: relative;
+    left: 526px;
+    text-align: left;
+    width: 250px;
+    padding: 15px;
+    margin: auto;
+    height: 300px;
+    z-index: 1;
+}
+
+.lan{
+
+    display: block;
+    background-color: aquamarine;
+    font-weight: bold;
+    position: relative;
+    left: 526px;
+    text-align: left;
+    width: 250px;
+    padding: 15px;
+    margin: auto;
+    height: 200px;
+    z-index: 1;
+}
+
+.ligne{
+    
+    position: relative;
+    margin-top: -987px;
+    left: 380px;
+    border-left: thick solid #000000;
+    height: 625px
+}
+
+.ligne2{
+    
+    position: relative;
+    margin-top: 60px;
+    left: 380px;
+    border-left: thick solid #000000;
+    height: 360px
+}
+
+#somm{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cvfr{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cven{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#terrain{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#regle{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#placement{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#photos{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#contact{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}

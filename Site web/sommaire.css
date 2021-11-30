@@ -1,0 +1,25 @@
+body {
+
+    font-family: "Roboto", sans-serif;
+}
+
+.Sommaire{
+
+    text-align: center;
+    background-color: beige;
+}
+
+    
+.img1{
+
+    display: block;
+    margin-left: auto;
+    float: left;
+}
+
+.img2{
+
+    display: block;
+    margin-left: auto;
+    float: inline-end;
+}

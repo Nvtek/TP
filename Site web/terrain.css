@@ -1,0 +1,121 @@
+body {
+
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+
+.image{
+
+    display: block;
+    margin-left: auto;
+    float: left;
+}
+
+.image11{
+
+    display: block;
+    margin-left: auto;
+    float: inline-start;
+}
+
+.image12{
+
+    display: block;
+    float: right;
+    margin-left: auto;
+}
+
+.texte1{
+
+    display: block;
+    float: left;
+}
+
+.image{
+
+    position: relative;
+    margin-top: 500px;
+    left: -200px;
+    height: -1000px;
+}
+
+.image11{
+
+    position: relative;
+    margin-top: -800px;
+    left: 10px;
+    height: 600px;
+}
+
+.vid{
+
+    position: relative;
+    margin-top: 1000px;
+    left: 56px;
+    height: 600px;
+}
+
+#somm{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cvfr{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cven{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#terrain{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#regle{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#placement{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#photos{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#contact{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}

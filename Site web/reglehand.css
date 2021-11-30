@@ -1,0 +1,70 @@
+body {
+
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+
+#somm{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cvfr{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cven{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#terrain{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#regle{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#placement{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#photos{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#contact{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}

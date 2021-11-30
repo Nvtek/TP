@@ -1,0 +1,95 @@
+body {
+
+    position: absolute;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+
+.texte4{
+
+    text-align: center;
+}
+
+.texte5{
+
+    text-align: center;
+}
+
+.texte6{
+
+    text-align: center;
+}
+
+.texte7{
+
+    text-align: center;
+}
+
+.texte8{
+
+    text-align: center;
+}
+
+#somm{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cvfr{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cven{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#terrain{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#regle{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#placement{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#photos{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#contact{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}

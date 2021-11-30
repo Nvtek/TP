@@ -1,0 +1,138 @@
+body {
+
+    font-family: "Roboto", sans-serif;
+}
+
+#somm{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cvfr{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#cven{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#terrain{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#regle{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#placement{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#photos{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+#contact{
+
+    text-align: inherit;
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+
+.img3{
+
+    position: relative;
+    margin-top: -350px;
+    left: 900px;
+    height: 600px;
+}
+
+.txt2{
+
+    position: relative;
+    right: -100px;
+}
+
+.img4{
+
+    position: relative;
+    margin-top: -380px;
+    left: 900px;
+    height: 600px;
+}
+
+.img5{
+
+    position: relative;
+    margin-top: -400px;
+    left: 900px;
+    height: 600px;
+}
+
+.txt3{
+
+    position: relative;
+    right: -100px;
+}
+
+.txt4{
+
+    position: relative;
+    right: -100px;
+}
+
+.txt5{
+
+    position: relative;
+    right: -100px;
+}
+
+.img6{
+
+    position: relative;
+    margin-top: -400px;
+    left: 1050px;
+    height: 600px;
+}
+
+.txt6{
+
+    position: relative;
+    right: -100px;
+}
+
+.img7{
+
+    position: relative;
+    margin-top: -400px;
+    left: 900px;
+    height: 600px;
+}
